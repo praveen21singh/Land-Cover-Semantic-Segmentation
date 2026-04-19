@@ -75,7 +75,7 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
  
  1. Clone the repository:
  ```shell
- git clone https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git
+ git clone [https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git](https://github.com/praveen21singh/Land-Cover-Semantic-Segmentation.git)
  ```
  2. Change to the project directory:
  ```shell
@@ -108,7 +108,7 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
  
  1. Clone the repository:
  ```shell
- git clone https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git
+ git clone [https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch.git](https://github.com/praveen21singh/Land-Cover-Semantic-Segmentation.git)
  ```
  2. Change to the project directory:
  ```shell
@@ -153,22 +153,7 @@ For example, suppose the model has been trained on all the 30 classes of the <a 
 
 ----
 
-## 📝 Citing <a name="citing"></a>
-```
-@misc{Souvik:2023,
-  Author = {Souvik Majumder},
-  Title = {Land Cover Semantic Segmentation PyTorch},
-  Year = {2023},
-  Publisher = {GitHub},
-  Journal = {GitHub repository},
-  Howpublished = {\url{https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch}}
-}
-```
 
-----
-
-## 🛡️ License <a name="license"></a>
-Project is distributed under [MIT License](https://github.com/souvikmajumder26/Land-Cover-Semantic-Segmentation-PyTorch/blob/main/LICENSE)
 
 ---
 
